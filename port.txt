@@ -1,5 +1,5 @@
 
-### Port pin mapping 
+### Port pin mapping ###
   _______
 |   0   5 |
 |   1   6 |
