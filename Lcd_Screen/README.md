@@ -18,11 +18,13 @@ An Enable pin that enables writing to the registers
 <br><br>
 For the code, we will use the LiquidCrystal Library for almost needed functions : https://www.arduino.cc/en/Reference/LiquidCrystal
 <br><br>
-####Hardware
+#### Hardware
 * Tietopetri LCD 16x2 screen
 * Arduino MEGA 2560 borad
 <br><br>
-####Circuit
+
+
+#### Circuit
 * LCD RS     pin to digital pin 8
 * LCD R/W    pin to ground
 * LCD Enable pin to digital pin 2
