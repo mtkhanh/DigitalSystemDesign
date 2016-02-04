@@ -1,0 +1,34 @@
+
+### Port pin mapping 
+  _______
+|   0   5 |
+|   1   6 |
+  | 2   7 |
+|   3   8 |
+|   4   9 |
+  ________
+PORTC:
+
+Bit 0 Analog A5 |	Bit 5 Analog A0
+Bit 1 Analog A4 |	Bit 6 
+Bit 2 Analog A3 |	Bit 7 
+Bit 3 Analog A2 |	Bit 8 GND
+Bit 4 Analog A1 |	Bit 9 5V 	 
+
+
+PORTD:
+
+Bit 0 Digital 0 |	Bit 5 Digital 5
+Bit 1 Digital 1 |	Bit 6 Digital 6
+Bit 2 Digital 2 |	Bit 7 Digital 7
+Bit 3 Digital 3 |	Bit 8 GND
+Bit 4 Digital 4 |	Bit 9 5V 	 
+
+
+PORTB:
+
+Bit 0 Digital 8  |	Bit 5 Digital 13
+Bit 1 Digital 9  |	Bit 6 
+Bit 2 Digital 10 |	Bit 7 
+Bit 3 Digital 11 |	Bit 8 GND
+Bit 4 Digital 12 |	Bit 9 5V 	
