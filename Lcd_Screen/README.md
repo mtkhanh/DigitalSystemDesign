@@ -1,4 +1,4 @@
-###Schematic :
+1. Schematic :
 http://www.tietopetri.fi/data/lcd.pdf
-###Detail :
+2. Detail :
 http://www.tietopetri.fi/data/klcd.pdf
