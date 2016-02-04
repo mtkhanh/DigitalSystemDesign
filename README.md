@@ -1,7 +1,7 @@
 ## Tutorial for Tietopetri company's component
 ### List of component
-LCD 16x2 screen
-ADC-levy
-3D-levy joystick
-Servo
+1. LCD 16x2 screen
+2. ADC-levy
+3. 3D-levy joystick
+4. Servo
 
