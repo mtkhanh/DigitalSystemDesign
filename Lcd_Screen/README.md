@@ -4,5 +4,6 @@
 
 Schematic :
 http://www.tietopetri.fi/data/lcd.pdf
+<br >
 Detail :
 http://www.tietopetri.fi/data/klcd.pdf
