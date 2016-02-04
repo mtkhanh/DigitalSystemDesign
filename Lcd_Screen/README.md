@@ -22,10 +22,10 @@ For the code, we will use the LiquidCrystal Library for almost needed functions 
 * Tietopetri LCD 16x2 screen
 * Arduino MEGA 2560 borad
 ####Circuit
- * LCD RS     pin to digital pin 8
- * LCD R/W    pin to ground
- * LCD Enable pin to digital pin 2
- * LCD D4     pin to digital pin 4
- * LCD D5     pin to digital pin 5
- * LCD D6     pin to digital pin 6
- * LCD D7     pin to digital pin 7
+* LCD RS     pin to digital pin 8
+* LCD R/W    pin to ground
+* LCD Enable pin to digital pin 2
+* LCD D4     pin to digital pin 4
+* LCD D5     pin to digital pin 5
+* LCD D6     pin to digital pin 6
+* LCD D7     pin to digital pin 7
