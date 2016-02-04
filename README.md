@@ -1,2 +1,2 @@
-# DSDcourse
-Tutorial and introduction to Tietopetri's component
+# Tutorial for Tietopetri company's component
+List of component
