@@ -24,7 +24,5 @@ void setup() {
 }
 
 void loop() {
-  // Set position of the cursor to column 0, line 1
-  // Note : Counting starts from 0
 
 }
