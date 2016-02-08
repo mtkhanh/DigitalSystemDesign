@@ -14,6 +14,7 @@ When the joystick is resting in the middle, the value of X and Y axis should be 
 #### Hardware
 * Tietopetri 3D-Levy Joystick
 * Arduino Mega 2560 board
+
 <br>
 #### Circuit
 * KYTKIN  - Switch    Bit 0
