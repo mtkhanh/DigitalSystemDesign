@@ -12,7 +12,7 @@ The change of voltage from 0 to 5 volts of input device will be converted to a n
 
 <br>
 #### Circuit
-* VALO  : Photodiode          Bit  
-* LAMPO : Temperature sensor  Bit 
+* VALO  : Photodiode          Bit 1 
+* LAMPO : Temperature sensor  Bit 3 
 * POT   : Potentialmeter      Bit 2
 * LDR   : Photoresister       Bit 4
